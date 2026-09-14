@@ -9,7 +9,7 @@ The Active Directory Home Lab project was created to build hands-on experience w
 - Configured Active Directory Domain Services on Windows Server 2022
 - Joined Windows 10/11 client systems to an Active Directory domain
 - Created and managed user accounts
-- Performed password resets and account unlocks
+- Performed account unlocks
 - Configured account lockout and password policies
 - Managed user permissions and access
 - Improved troubleshooting and Windows Server administration skills
@@ -28,11 +28,11 @@ The Active Directory Home Lab project was created to build hands-on experience w
 
 ### Active Directory Domain Services & Domain Controller
 
-Installed AD DS, created a new forest, and promoted Windows Server 2022 to a domain controller.
+Installed AD DS and promoted Windows Server 2022 to a domain controller.
 
 <img width="1024" height="768" alt="Apng" src="https://github.com/user-attachments/assets/fd65927b-bb0b-470d-ad5a-55b71264bf88" />
 
-*Ref 1: Selecting the AD DS services to install*
+*Ref 1: Installing the AD DS services*
 
 <img width="1024" height="768" alt="VirtualBox_Windows Server 2022_25_08_2026_13_22_28" src="https://github.com/user-attachments/assets/58608167-dce1-4457-bd7c-d0be86fb1491" />
 
@@ -49,24 +49,24 @@ Created and managed domain user accounts through Active Directory Users and Comp
 
 *Ref 4: Confirming new users account creation*
  
-### Domain-Joined Windows Clients
-Joined Windows 10 and Windows 11 clients to the AD domain and verified successful domain connectivity.
+### Domain-Joined Windows Users
+Joined Windows 10 and Windows 11 users to the domain and verified successful connectivity.
 
 <img width="1024" height="768" alt="VirtualBox_Windows 10_25_08_2026_16_21_30" src="https://github.com/user-attachments/assets/8c11896c-6621-47bf-a6e8-938d5f3a12e8" />
 
-*Ref 5: Adding Windows 10 user to the domain*
+*Ref 5: Adding Windows 10 user to domain*
 
 <img width="1024" height="768" alt="VirtualBox_Windows 10_25_08_2026_16_25_48" src="https://github.com/user-attachments/assets/55aa0556-5262-458c-bd5e-504df4abdc27" />
 
-*Ref 6: Confirming that the Windows 10 user has successively been added to the domain* 
+*Ref 6: Confirming successful Windows 10 user connectivity to domain* 
 
 <img width="1024" height="768" alt="VirtualBox_Windows 11_25_08_2026_15_59_27" src="https://github.com/user-attachments/assets/42f1fecc-cc43-4fd6-8461-94138e7973b6" />
 
-*Ref 7: Adding Windows 11 user to the domain*
+*Ref 7: Adding Windows 11 user to domain*
 
 <img width="1024" height="768" alt="VirtualBox_Windows 11_25_08_2026_16_01_29" src="https://github.com/user-attachments/assets/2383defc-fca9-4685-8a84-3ce141b1c4f7" />
 
-*Ref 8: Confirming that the Windows 11 user has successively been added to the domain*
+*Ref 8: Confirming successful Windows 11 user connectivity to domain*
 
 <img width="800" height="600" alt="VirtualBox_Windows Server 2022_25_08_2026_16_24_10" src="https://github.com/user-attachments/assets/74730bd6-7239-492a-84dc-af99ff4701f1" />
 
@@ -81,18 +81,18 @@ Configured domain password and account lockout policies through Group Policy Man
 
 <img width="800" height="600" alt="VirtualBox_Windows Server 2022_25_08_2026_17_38_24" src="https://github.com/user-attachments/assets/951327d0-ddfc-4358-aa45-aa50c9768969" />
 
-*Ref 11: Changing password age to 90 days*
+*Ref 11: Changing maximum password age to 90 days*
 
 <img width="800" height="600" alt="VirtualBox_Windows Server 2022_25_08_2026_17_39_10" src="https://github.com/user-attachments/assets/9171eaa1-49d6-4cf2-af87-272c8da815cd" />
 
-*Ref 12: Changing password lock out duration to 360 minutes*
+*Ref 12: Changing password lockout duration to 360 minutes*
 
 <img width="800" height="600" alt="VirtualBox_Windows Server 2022_25_08_2026_17_42_59" src="https://github.com/user-attachments/assets/8dbced28-3b1f-44b4-ad9b-d3233bf670f6" />
 
 *Ref 13: Confirming GPO changes*
 
-### Account Support & Troubleshooting
-Practiced common Active Directory support tasks including resetting user passwords and unlocking locked domain accounts.
+### Account Unlock
+Practiced unlocking locked domain accounts.
 
 <img width="1024" height="768" alt="VirtualBox_Windows 11_25_08_2026_17_51_09" src="https://github.com/user-attachments/assets/302a42e7-81cd-4a49-b9d2-55f936f7b4ea" />
 
@@ -107,7 +107,7 @@ Practiced common Active Directory support tasks including resetting user passwor
 *Ref 16: Confirming successful account unlock*
 
 ### Remote Administration
-Enabled Remote Desktop and successfully connected to the Windows Server from a domain-connected Windows client.
+Enabled Remote Desktop connections and successfully connected to the Windows Server from a domain-connected Windows user.
 
 <img width="800" height="600" alt="VirtualBox_Windows Server 2022_25_08_2026_16_28_52" src="https://github.com/user-attachments/assets/2a7f777b-6bbf-4bdd-b779-287cf6882a35" />
 
@@ -115,12 +115,12 @@ Enabled Remote Desktop and successfully connected to the Windows Server from a d
 
 <img width="1024" height="768" alt="VirtualBox_Windows 10_25_08_2026_16_30_36" src="https://github.com/user-attachments/assets/6fa7bb71-399d-4b50-a34d-10ad11c50825" />
 
-*Ref 18: Entering the Windows Server IP address* 
+*Ref 18: Entering Windows Server IP address* 
 
 <img width="1024" height="768" alt="VirtualBox_Windows 10_25_08_2026_16_31_47" src="https://github.com/user-attachments/assets/88d1afd3-198f-4773-b029-c69d939cc56e" />
 
-*Ref 19: Entering Windows Server Credentials*
+*Ref 19: Entering Windows Server credentials*
 
 <img width="1024" height="768" alt="VirtualBox_Windows 10_25_08_2026_16_33_57" src="https://github.com/user-attachments/assets/0224413c-a961-4f8d-958c-9f036e7d5a5b" />
 
-*Ref 20: Successful RDP connection from a Windows 10 Pro user*
+*Ref 20: Successful RDP connection*
