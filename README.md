@@ -17,16 +17,14 @@ The Active Directory Home Lab project was created to build hands-on experience w
 
 ### Tools Used
 
-- Windows Server 2022
-- VirtualBox
 - Active Directory Domain Services
 - Group Policy Management
-- Windows 10
-- Windows 11
-- Remote Desktop Protocol (RDP)
-
+- Windows 10/11
+- Windows Server 2022
+- Remote Desktop Protocol 
+- VirtualBox
+  
 ## Lab Implementation
-
 
 ### Active Directory Domain Services & Domain Controller
 
