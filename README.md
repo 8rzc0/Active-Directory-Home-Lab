@@ -49,28 +49,28 @@ Created and managed domain user accounts through Active Directory Users and Comp
 
 *Ref 4: Confirming new users account creation*
  
-### Domain-Joined Windows Users
-Joined Windows 10 and Windows 11 users to the domain and verified successful connectivity.
+### Domain-Joined Windows Clients
+Joined Windows 10 and Windows 11 clients to the domain and verified successful connectivity.
 
 <img width="1024" height="768" alt="VirtualBox_Windows 10_25_08_2026_16_21_30" src="https://github.com/user-attachments/assets/8c11896c-6621-47bf-a6e8-938d5f3a12e8" />
 
-*Ref 5: Adding Windows 10 user to domain*
+*Ref 5: Joining Windows 10 client to domain*
 
 <img width="1024" height="768" alt="VirtualBox_Windows 10_25_08_2026_16_25_48" src="https://github.com/user-attachments/assets/55aa0556-5262-458c-bd5e-504df4abdc27" />
 
-*Ref 6: Confirming successful Windows 10 user connectivity to domain* 
+*Ref 6: Confirming successful Windows 10 client connectivity to domain* 
 
 <img width="1024" height="768" alt="VirtualBox_Windows 11_25_08_2026_15_59_27" src="https://github.com/user-attachments/assets/42f1fecc-cc43-4fd6-8461-94138e7973b6" />
 
-*Ref 7: Adding Windows 11 user to domain*
+*Ref 7: Joining Windows 11 client to domain*
 
 <img width="1024" height="768" alt="VirtualBox_Windows 11_25_08_2026_16_01_29" src="https://github.com/user-attachments/assets/2383defc-fca9-4685-8a84-3ce141b1c4f7" />
 
-*Ref 8: Confirming successful Windows 11 user connectivity to domain*
+*Ref 8: Confirming successful Windows 11 client connectivity to domain*
 
 <img width="800" height="600" alt="VirtualBox_Windows Server 2022_25_08_2026_16_24_10" src="https://github.com/user-attachments/assets/74730bd6-7239-492a-84dc-af99ff4701f1" />
 
-*Ref 9: Confirming that both users have successively been added to the domain*
+*Ref 9: Confirming that both clients have successively been added to the domain*
 
 ### Group Policy & Account Security
 Configured domain password and account lockout policies through Group Policy Management.
