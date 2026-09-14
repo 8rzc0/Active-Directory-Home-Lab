@@ -11,7 +11,6 @@ The Active Directory Home Lab project was created to showcase hands-on experienc
 - Created and managed user accounts.
 - Performed account unlocks.
 - Configured account lockout and password policies.
-- Improved troubleshooting and Windows Server administration skills.
 - Practiced basic Group Policy administration.
 
 ### Tools Used
