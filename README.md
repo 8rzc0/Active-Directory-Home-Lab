@@ -2,12 +2,12 @@
 
 ## Objective
 
-The Active Directory Home Lab project was created to build hands-on experience with Windows Server administration and common Tier 1 IT support tasks. The lab focused on deploying Active Directory Domain Services, joining Windows clients to a domain, managing users and groups, configuring account policies, and practicing common support tasks such as password resets, account unlocks, and access management.
+The Active Directory Home Lab project was created to build hands-on experience with Windows Server administration and common Tier 1 IT support tasks. The lab focused on deploying Active Directory Domain Services, joining Windows clients to a domain, managing users, configuring account policies, and practicing common support tasks such as password resets and account unlocks
 
 ### Skills Learned
 
 - Configured Active Directory Domain Services on Windows Server 2022
-- Joined Windows client systems to an Active Directory domain
+- Joined Windows 10/11 client systems to an Active Directory domain
 - Created and managed user accounts
 - Performed password resets and account unlocks
 - Configured account lockout and password policies
