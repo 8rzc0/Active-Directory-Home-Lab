@@ -8,7 +8,7 @@ The Active Directory Home Lab project was created to build hands-on experience w
 
 - Configured Active Directory Domain Services on Windows Server 2022
 - Joined Windows client systems to an Active Directory domain
-- Created and managed user accounts and groups
+- Created and managed user accounts
 - Performed password resets and account unlocks
 - Configured account lockout and password policies
 - Managed user permissions and access
